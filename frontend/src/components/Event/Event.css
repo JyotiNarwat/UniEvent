@@ -1,0 +1,14 @@
+.event {
+  border: 2px solid black;  
+  border-radius: 8px;       
+  padding: 16px;         
+  margin: 12px 0;
+  background-color: #fff; 
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.event h1{
+    color:rgb(33, 33, 200);
+    margin-bottom: 10px;
+}
